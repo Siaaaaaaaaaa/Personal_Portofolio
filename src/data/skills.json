@@ -1,0 +1,75 @@
+
+
+[
+
+    {
+        "title": "Python", 
+        "imageSrc":"/skills/python.png"
+    },
+
+    {
+        "title": "C++", 
+        "imageSrc":"/skills/c++.png"
+    },
+
+    {
+        "title": "SQL", 
+        "imageSrc":"/skills/sql.png"
+    },
+
+    {
+        "title": "React", 
+        "imageSrc":"/skills/react.png"
+    },
+
+     {
+        "title": "Java",
+        "imageSrc": "/skills/java.png"
+    },
+
+    {
+        "title": "HTML",
+        "imageSrc": "/skills/html.png"
+    },
+
+    {
+        "title": "CSS",
+        "imageSrc": "/skills/css.png"
+    },
+
+    {
+        "title":"Matlab",
+        "imageSrc":"/skills/Matlab_Logo.png"
+    },
+
+    {
+        "title":"Linux",
+        "imageSrc":"/skills/linux.png"
+    },
+
+    {
+        "title":"Office Suite",
+        "imageSrc":"/skills/office.png"
+    },
+
+    {
+        "title":"Strategic Planning",
+        "imageSrc":"/skills/StrategicPlanning.png"
+
+    },
+
+    {
+        "title":"Problem Solving",
+        "imageSrc":"/skills/ProblemSolving.png"
+    },
+
+    {
+        "title":"Communication",
+        "imageSrc":"/skills/ProblemSolving.png"
+    },
+
+    {
+        "title":"Analytical Thinking",
+        "imageSrc":"/skills/ProblemSolving.png"
+    }
+]

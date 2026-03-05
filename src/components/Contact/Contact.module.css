@@ -1,0 +1,126 @@
+@import "../../var.css";
+
+/* =====================
+   Contact Section
+===================== */
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 58px 10%;
+  gap: 40px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* =====================
+   Text Section
+===================== */
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.text h2 {
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  margin: 0;
+  position: relative;
+}
+
+.text h2::after {
+  content: "";
+  width: 80px;
+  height: 4px;
+  background-color: var(--color-primary);
+  display: block;
+  margin-top: 12px;
+}
+
+.text p {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin-top: 20px;
+}
+
+/* =====================
+   Links / Icons
+===================== */
+
+.links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+  gap: 32px;
+  padding: 0;
+  margin: 0;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link img {
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.link img:hover {
+  transform: scale(1.15);
+  opacity: 0.85;
+}
+
+/* =====================
+   Responsive
+===================== */
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 30px;
+    text-align: center;
+    padding: 40px 6%;
+  }
+
+  .text {
+    align-items: center;
+  }
+
+  .text h2 {
+    font-size: 50px;
+  }
+
+  .text p {
+    font-size: 24px;
+  }
+
+  .links {
+    gap: 28px;
+  }
+
+  .link img {
+    width: 40px;
+    height: 40px;
+  }
+}

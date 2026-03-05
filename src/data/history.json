@@ -1,0 +1,30 @@
+[
+
+    {
+        "role":"Partner and Project Support Team Summer Practice" , 
+        "organisation":"BearingPoint ",
+        "startDate":"June, 2025",
+        "endDate":"Sept 2025",
+        "experience": ["Hands-on experience in consultancy, developing professional skills through training on Robotic Process Automation, Power BI, and presentation techniques.", "Delivered a Task Manager App using React.js and Django , with REST APIs for data communication, featuring user authentication, task management, team collaboration, and a dynamic dashboard as functionalities"],
+        "imageSrc": "/history/_bp.png"
+    },
+
+    {
+        "role":"Vicepresident for Corporate Relations", 
+        "organisation":"BEST Bucharest Student Organization",
+        "startDate":"August, 2024",
+        "endDate":"August, 2025",
+        "experience":["Led corporate engagement and fundraising efforts, managing partnerships, sponsorships, and donations", "Advised members on corporate outreach strategies and partnership development.","Oversaw communication channels and strategic event planning to connect students, universities, and companies.", "Developed and conducted Market Research Strategies"],
+        "imageSrc":"/history/BEST.png"
+    },
+
+    {
+        "role": "Information Technology Trainer", 
+        "organisation": "Logiscool Romania",
+        "startDate":"Oct, 2023",
+        "endDate":"Jun 2024",
+        "experience":[" Facilitated IT training programs for students from kindergarden to 11th grade","Delivered courses on Unity, Python & Information Technology General Knowledge","Developed and reinforced begginer-level knowledge of C#","Improved pedagogical skills"],
+        "imageSrc":"/history/logi.png"
+    }
+
+]

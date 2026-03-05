@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Task Manager App",
+        "description": "This project was developed during my summer internship and represents a user-friendly application for task management, both individually and within a group. The app allows users to efficiently organize, track, and collaborate on tasks in a simple and intuitive way.",
+        "skills": [
+            "React",
+            "REST",
+            "CSS"
+        ],
+        "source": "https://github.com/Siaaaaaaaaaa/Task-Manager-App"
+    },
+    
+    {
+        "title": "Artificial Intelligence and the Academic Life of Students",
+        "description": "This is an article written alongisde two of my colleagues - Stefan Luncanu & Catalin Dajiu. The research aimed to identify students' views on the connection between the use of ChatGPT and their academic performance. The researched was done and published in 2024.",
+        "skills": ["Market Research", "Data Analysis", "Python"],
+        "source": "https://www.researchgate.net/publication/386585651_STUDENTS'_VIEWS_ON_THE_USE_OF_CHATGPT_IN_HIGHER_EDUCATION"
+    },
+
+    {
+        "title": "ML Model for Student Grade Prediction",
+        "description": "This project is curredtnly being developed as part of my Bachelor's thesis. The project aims to predict a student's average grade and classify it into a risk category. The model will also come with a data visualizer. The project is meant to have a final version in June 2026. ",
+        "skills": ["Python", "ML", "Data Visualization"],
+        "source": " "
+    },
+
+    {
+        "title": "Coffee Shop Website",
+        "description": "This project is curretnly being develop as part of my perosnal project portofolio. It started as an idea to develop my skills in React and its purpose is to represent a website for a local Bucharest coffee shop. It is  build using React, HTML and CSS. ",
+        "skills": ["HTML", "CSS", "React"],
+        "source": " "
+    }
+]
