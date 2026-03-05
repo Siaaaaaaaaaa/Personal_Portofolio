@@ -17,7 +17,7 @@ export const About = () => {
                             <p>
                                 With a strong background in Mathematics, Numerical Analysis, and Statistics,
                                 I am highly motivated to pivot into Data Science. Leveraging my proficiency
-                                in Python, I aim to apply my expertise in integral calculus and statistical
+                                in Python, epsecially with libraries such as NumPy and Pandas, I aim to apply my expertise in integral calculus and statistical
                                 modeling to solve complex data challenges.
                             </p>
                         </div>
