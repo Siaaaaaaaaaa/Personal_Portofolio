@@ -21,13 +21,13 @@
         "title": "Machine Learning Model for Student Grade Prediction",
         "description": "This project is currently being developed as part of my Bachelor's thesis. The project aims to predict a student's average grade and classify it into a risk category. The model will also come with a data visualizer. The project is meant to have a final version in June 2026 and help teachers pay attention to certian risk categories. ",
         "skills": ["Python", "ML", "Data Visualization"],
-        "source": " "
+        "source": "https://github.com/Siaaaaaaaaaa/ML-Model-for-Student-Grade-Prediction/tree/main "
     },
 
     {
         "title": "Coffee Shop Website",
         "description": "This project is currently being developed as part of my perosnal project portofolio. It started as an idea to develop my skills in React and its purpose is to represent a website for a local Bucharest coffee shop. It is build using React, HTML and CSS and is meant to contain information relevant for a coffee shop: meniu, location and reviews, as well as functionalities responsive to any user. ",
         "skills": ["HTML", "CSS", "React"],
-        "source": " "
+        "source": "https://github.com/Siaaaaaaaaaa/CoffeeWebsite"
     }
 ]
